@@ -1,2 +1,2 @@
 #!/bin/bash
-head -3 | tails -1 /iacta
+head -n 3 | tails -n 1 /iacta
